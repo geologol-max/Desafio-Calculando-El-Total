@@ -1,0 +1,5 @@
+{
+  "name": "Calculando el Total - Desafío Latam",
+  "description": "Una tarjeta de producto interactiva que permite modificar la cantidad y calcula el total automáticamente.",
+  "requestFramePermissions": []
+}
